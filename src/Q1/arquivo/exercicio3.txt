@@ -1,0 +1,19 @@
+Definição de software
+História do software
+Tipos de software
+Ciclo de vida do software
+Engenharia de software
+Teste de software
+Desenvolvimento de software
+Gestão de software
+Segurança de software
+Software de produtividade
+Linguagens de programação
+Ambientes de desenvolvimento
+Bibliotecas de software
+Frameworks de software
+Modelos de software
+Design de software
+Arquitetura de software
+Testes de software
+Qualidade de software
